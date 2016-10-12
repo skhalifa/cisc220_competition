@@ -34,7 +34,9 @@ StudentID	CourseID
 124345		3
 111234		3
 
-The script should execute the join between the Students and Courses tables using the Students_Courses relationship table and print out the student name and course name sorted by the student name, then by course name.
+The script should execute the join between the Students and Courses tables using the Students_Courses relationship table 
+
+and print out the student name and course name sorted by the student name, then by course name.
 
 Output:
 -----------
