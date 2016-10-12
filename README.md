@@ -12,7 +12,7 @@ git clone https://github.com/skhalifa/cisc220_competition.git cisc220_competitio
 
 git branch "myteam"  
 
-Replace "myteam" with the name of your team
+Replace "myteam" with the name of your team and don't use the quotes.
 
 4) Switch to your branch to prevent editing others codes 
 
