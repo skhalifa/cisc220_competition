@@ -10,7 +10,9 @@ git clone https://github.com/skhalifa/cisc220_competition.git cisc220_competitio
 
 3) Create a branch for your team to submit your solution and EMAIL me <khalifa@cs.queensu.ca> your account email 
 
-git branch "myteam"  Replace "myteam" with the name of your team
+git branch "myteam"  
+
+Replace "myteam" with the name of your team
 
 4) Switch to your branch to prevent editing others codes 
 
