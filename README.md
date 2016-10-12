@@ -38,4 +38,4 @@ git commit -m "message"
 
 git push 
 
-9) EMAIL me <khalifa@cs.queensu.ca> after you finish submitting each question stating the question number in the subject line [ex. Question 1]
+9) EMAIL me <khalifa@cs.queensu.ca> after you finish pushing each task to your branch stating the task number in the subject line [ex. Task 1]
