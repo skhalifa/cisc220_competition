@@ -6,8 +6,9 @@ Create a script that would read the user input in the form [x,y] coordinates whe
 		[x=$((1 + RANDOM % 3)) and y=$((1 + RANDOM % 3))]
 -	Human and AI Players can’t input a coordinate that has already been played. [Ask for another coordinate if this happens]
 -	Human and AI Players can’t input invalid inputs. [Ask for another coordinate if this happens]
--	The game should detect when a player wins and output “PLAYER 1 [X] WINS!!!!”
--	The game should detect when all slots are filled and it’s a tie game and output a message “I WIN :D”
+-	The game should detect when a player wins when 3 marks are one the same line [vertical, horizontal or diagonal]
+	and output “PLAYER ? [?] WINS!!!!”
+-	The game should detect when all slots are filled and it’s a tie game and output a message “Losers :D”
 
 Sample Output
 -------------------------
