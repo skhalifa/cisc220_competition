@@ -18,6 +18,7 @@ for word in awk $input; do
 	echo -n $word
 	echo " was already uppercase"
     else
+	echo -n $word
 	echo " doesn't start with a letter"
     fi
 done
