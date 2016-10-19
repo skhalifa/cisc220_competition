@@ -1,5 +1,7 @@
 # cisc220_competition
 
+backleft team WON!!
+
 1) Make a directory to store the competition questions 
 
 mkdir cisc220_competition
